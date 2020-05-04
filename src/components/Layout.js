@@ -5,7 +5,7 @@ import '../styles/main.scss'
 const Layout = ({ children }) => {
   return (
     <>
-      <Navigation />
+      {/* <Navigation /> */}
       {children}
     </>
   )
